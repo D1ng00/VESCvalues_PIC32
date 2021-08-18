@@ -1,0 +1,14 @@
+configName: default
+folderName: uartbot
+format_version: v1.0
+frameworkPath: D:\HarmonyV3
+processor: PIC32MK1024MCF064
+projectName: uartbot
+settings:
+  PackageFilter: bootloader;bootloader_apps_can;bootloader_apps_i2c;bootloader_apps_uart;bsp;core;core_apps_pic32mk;crypto;csp;csp_apps_pic32mk;mc_apps_pic32mk;motor_control;net;quick_docs;usb;x2c
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.7.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\PIC32MK-MC_DFP\1.6.125\atdf\PIC32MK1024MCF064.atdf
