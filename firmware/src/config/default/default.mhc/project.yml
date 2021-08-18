@@ -1,18 +1,4 @@
 files:
-- generatedChecksum: DBEB484D45D924F226145E41226877FB
-  logicalPath: config/default/X2CCode/X2CScope
-  name: X2CScope.c
-  physicalPath: X2CCode/X2CScope/src
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: DBEB484D45D924F226145E41226877FB
-- generatedChecksum: 3FD00F20C0A4CEA83C5FA11C3EBDD58B
-  logicalPath: config/default/X2CCode/X2CScope
-  name: X2CScopeCommunication.c
-  physicalPath: X2CCode/X2CScope/src
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: 3FD00F20C0A4CEA83C5FA11C3EBDD58B
 - generatedChecksum: 99DB74296DF9943C474F4F03A700C790
   logicalPath: config/default
   name: exceptions.c
@@ -20,125 +6,41 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: 99DB74296DF9943C474F4F03A700C790
-- generatedChecksum: AD5740C58208DFAC01E80BC765684996
+- generatedChecksum: 3B15F4D6111131BAC3C921DB66CD6CEE
   logicalPath: config/default
   name: initialization.c
   physicalPath: ''
   security: NON_SECURE
   type: SOURCE
-  userChecksum: AD5740C58208DFAC01E80BC765684996
-- generatedChecksum: 8484E40ECBDA44571EAC5076FB530F41
+  userChecksum: 3B15F4D6111131BAC3C921DB66CD6CEE
+- generatedChecksum: 4B6A778CF4449A8EC938F5D4D0917E56
   logicalPath: config/default
   name: interrupts.c
   physicalPath: ''
   security: NON_SECURE
   type: SOURCE
-  userChecksum: 8484E40ECBDA44571EAC5076FB530F41
-- generatedChecksum: null
+  userChecksum: 4B6A778CF4449A8EC938F5D4D0917E56
+- generatedChecksum: F81A00E640818EDFB9E79C9BD241AEF4
   logicalPath: ''
   name: main.c
   physicalPath: ../..
   security: NON_SECURE
   type: SOURCE
-  userChecksum: null
-- generatedChecksum: DCCECAB4A225A35D581B34E8818935C7
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_control_loop.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: DCCECAB4A225A35D581B34E8818935C7
-- generatedChecksum: C72E5BF09658C7E8E0866749A9806FAD
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_currmeasurement.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: C72E5BF09658C7E8E0866749A9806FAD
-- generatedChecksum: 030A53782FE4339B2A528B9E2E8779A6
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_errorhandler.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: 030A53782FE4339B2A528B9E2E8779A6
-- generatedChecksum: E57D238B7F022F210CE69D989AB3730E
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_generic_lib.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: E57D238B7F022F210CE69D989AB3730E
-- generatedChecksum: 046470AD5272DEB5B219C3783E57A081
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_lib.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: 046470AD5272DEB5B219C3783E57A081
-- generatedChecksum: DB974AE28FF3C709864895902C80709A
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_picontrol.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: DB974AE28FF3C709864895902C80709A
-- generatedChecksum: D5CECF6FD94EAEF793BA0E124E6AF6A9
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_pmsm_foc.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: D5CECF6FD94EAEF793BA0E124E6AF6A9
-- generatedChecksum: 4D909A989ADD6A5A7EF0ECA93F19FAAE
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_pwm.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: 4D909A989ADD6A5A7EF0ECA93F19FAAE
-- generatedChecksum: ABAABC1CE5EFDE16363B13CD8AAD1A76
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_rotorposition.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: ABAABC1CE5EFDE16363B13CD8AAD1A76
-- generatedChecksum: 36BF8996C103287DB7B0A62CEFF16EB7
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_speed.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: 36BF8996C103287DB7B0A62CEFF16EB7
-- generatedChecksum: AC6BCEE3FBA8DE5023D13C3EB1EA76A0
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_voltagemeasurement.c
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: AC6BCEE3FBA8DE5023D13C3EB1EA76A0
-- generatedChecksum: 86EDD91056850157F83A8645AE95F633
-  logicalPath: config/default/peripheral/adchs
-  name: plib_adchs.c
-  physicalPath: peripheral/adchs
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: 86EDD91056850157F83A8645AE95F633
-- generatedChecksum: EC2DA30B41B8D9A93B4E5CDAE38A49A4
+  userChecksum: F81A00E640818EDFB9E79C9BD241AEF4
+- generatedChecksum: C7AB471E307592E702247430358A3064
   logicalPath: config/default/peripheral/clk
   name: plib_clk.c
   physicalPath: peripheral/clk
   security: NON_SECURE
   type: SOURCE
-  userChecksum: EC2DA30B41B8D9A93B4E5CDAE38A49A4
-- generatedChecksum: DD8FC2825355F316F9799F5CC082FF05
+  userChecksum: C7AB471E307592E702247430358A3064
+- generatedChecksum: 71E5ACC69F93C73A5A6A0357AC92D694
   logicalPath: config/default/peripheral/evic
   name: plib_evic.c
   physicalPath: peripheral/evic
   security: NON_SECURE
   type: SOURCE
-  userChecksum: DD8FC2825355F316F9799F5CC082FF05
+  userChecksum: 71E5ACC69F93C73A5A6A0357AC92D694
 - generatedChecksum: 54B56F9A5E31D28121FE9700C051D5CB
   logicalPath: config/default/peripheral/gpio
   name: plib_gpio.c
@@ -146,13 +48,6 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: 54B56F9A5E31D28121FE9700C051D5CB
-- generatedChecksum: 14EC08B2B2233854BC4CDD8F98BA1892
-  logicalPath: config/default/peripheral/mcpwm
-  name: plib_mcpwm.c
-  physicalPath: peripheral/mcpwm
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: 14EC08B2B2233854BC4CDD8F98BA1892
 - generatedChecksum: 8455F0B5875D973A5BFAF295A84E6DC4
   logicalPath: config/default/peripheral/uart
   name: plib_uart1.c
@@ -167,27 +62,13 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: 7806B30ECAE0D18D08CD583D8775530D
-- generatedChecksum: 5591C3627E1EAF04874E2BAA428546AB
-  logicalPath: config/default/X2CCode/X2CScope
-  name: X2CScope.h
-  physicalPath: X2CCode/X2CScope/inc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 5591C3627E1EAF04874E2BAA428546AB
-- generatedChecksum: CA44DEA5CA47431DCFE19A280CE9644A
-  logicalPath: config/default/X2CCode/X2CScope
-  name: X2CScopeCommunication.h
-  physicalPath: X2CCode/X2CScope/inc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: CA44DEA5CA47431DCFE19A280CE9644A
-- generatedChecksum: 2176FF1D50943DEC61E06E37A35F6906
+- generatedChecksum: C1B3A24FE5DB16A00B9E56E23BE194EB
   logicalPath: config/default
   name: definitions.h
   physicalPath: ''
   security: NON_SECURE
   type: HEADER
-  userChecksum: 2176FF1D50943DEC61E06E37A35F6906
+  userChecksum: C1B3A24FE5DB16A00B9E56E23BE194EB
 - generatedChecksum: E189C26B2269F8DE46033CCD0621958D
   logicalPath: config/default
   name: device.h
@@ -202,125 +83,6 @@ files:
   security: NON_SECURE
   type: HEADER
   userChecksum: 4CF4A86296482D5331331BA301C20BB2
-- generatedChecksum: E75DF0D090D18FD603E217071A221A77
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_control_loop.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: E75DF0D090D18FD603E217071A221A77
-- generatedChecksum: CF0D0D9364EE61213CCA9BE75D92B9C3
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_currmeasurement.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: CF0D0D9364EE61213CCA9BE75D92B9C3
-- generatedChecksum: 6481453B07380DA8C20173D2A1113474
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_derivedparams.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 6481453B07380DA8C20173D2A1113474
-- generatedChecksum: 22ADBB46B4B767FC49BA2C1F0D039727
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_errorhandler.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 22ADBB46B4B767FC49BA2C1F0D039727
-- generatedChecksum: BE619BF7219A4C0A4155D16D53073C45
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_generic_lib.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: BE619BF7219A4C0A4155D16D53073C45
-- generatedChecksum: AA79C112BEFF748FF2DE2E81B9210A5D
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_hal.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: AA79C112BEFF748FF2DE2E81B9210A5D
-- generatedChecksum: E1CF71AE8C891A0CC5E7DE38C6F8A130
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_lib.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: E1CF71AE8C891A0CC5E7DE38C6F8A130
-- generatedChecksum: 25A5AB582A61262F42B2CA47E12163BC
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_picontrol.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 25A5AB582A61262F42B2CA47E12163BC
-- generatedChecksum: 7926A8F2E6252633399B209881C6BFFD
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_pmsm_foc.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 7926A8F2E6252633399B209881C6BFFD
-- generatedChecksum: 5FAD54D8E02B7E6C608149A7ACA45D53
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_pmsm_foc_common.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 5FAD54D8E02B7E6C608149A7ACA45D53
-- generatedChecksum: FC4DB07EE52EE9E6D50B06C904709C1B
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_pwm.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: FC4DB07EE52EE9E6D50B06C904709C1B
-- generatedChecksum: 7E5EBB1A36DFE00353656F950EE535F7
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_rotorposition.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 7E5EBB1A36DFE00353656F950EE535F7
-- generatedChecksum: 961A9231A4979273856BB1654A78E519
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_speed.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 961A9231A4979273856BB1654A78E519
-- generatedChecksum: 5995681A7CC6BCE127A7E3E8A65DB6E8
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_userparams.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 5995681A7CC6BCE127A7E3E8A65DB6E8
-- generatedChecksum: 8AFE5CA5C018707864411FDEAF49C650
-  logicalPath: config/default/motor_control/pmsm_foc
-  name: mc_voltagemeasurement.h
-  physicalPath: motor_control/pmsm_foc
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 8AFE5CA5C018707864411FDEAF49C650
-- generatedChecksum: 74058744638925EEB20F58B4328F1B68
-  logicalPath: config/default/peripheral/adchs
-  name: plib_adchs.h
-  physicalPath: peripheral/adchs
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 74058744638925EEB20F58B4328F1B68
-- generatedChecksum: D118735A3171AC182AEA00BBC367DA83
-  logicalPath: config/default/peripheral/adchs
-  name: plib_adchs_common.h
-  physicalPath: peripheral/adchs
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: D118735A3171AC182AEA00BBC367DA83
 - generatedChecksum: 7066CC390335CF75126E2A50C46E3BDD
   logicalPath: config/default/peripheral/clk
   name: plib_clk.h
@@ -342,20 +104,6 @@ files:
   security: NON_SECURE
   type: HEADER
   userChecksum: F6C4158B5662C9974C269B08A6FF8837
-- generatedChecksum: 12CBE2439F4C4DECD2B376033BBADA45
-  logicalPath: config/default/peripheral/mcpwm
-  name: plib_mcpwm.h
-  physicalPath: peripheral/mcpwm
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 12CBE2439F4C4DECD2B376033BBADA45
-- generatedChecksum: 8C0682DB8DD38F7C09771C63347D06FF
-  logicalPath: config/default/peripheral/mcpwm
-  name: plib_mcpwm_common.h
-  physicalPath: peripheral/mcpwm
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: 8C0682DB8DD38F7C09771C63347D06FF
 - generatedChecksum: 442A504503193FF627F7C0952797B7BD
   logicalPath: config/default/peripheral/uart
   name: plib_uart1.h
@@ -385,17 +133,8 @@ files:
   type: LINKER
   userChecksum: 3438D759824EB65B58503A141B44DD55
 format_version: v1.0
-libraries:
-- name: libPIC32MK_X2CScope.a
-  path: /X2CCode/X2CScope/lib/
-  security: NON_SECURE
+libraries: []
 settings:
-- append: true
-  category: C32
-  delimiter: ;
-  key: extra-include-directories
-  security: NON_SECURE
-  value: ../src/config/default/X2CCode
 - append: true
   category: C32
   delimiter: ;
@@ -413,7 +152,7 @@ settings:
   delimiter: ''
   key: heap-size
   security: NON_SECURE
-  value: '1024'
+  value: '512'
 - append: false
   category: C32-LD
   delimiter: ''

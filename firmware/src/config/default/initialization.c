@@ -185,23 +185,14 @@ void SYS_Initialize ( void* data )
 
 	GPIO_Initialize();
 
-    ADCHS_Initialize();
-
 	UART1_Initialize();
 
-    MCPWM_Initialize();
 
 
-
-
-    X2CScope_Init();
-    PMSM_FOC_Initialize();
 
 
     EVIC_Initialize();
 
-	/* Enable global interrupts */
-    __builtin_enable_interrupts();
 
 
 }
